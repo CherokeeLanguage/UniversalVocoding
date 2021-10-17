@@ -121,4 +121,6 @@ datasets/
 outputs/
 
 # tensorboard outputs
-tensorboard/.idea/
+tensorboard/
+.idea/
+
